@@ -16,7 +16,7 @@ function weatherDataFetch(city) {
 }
 
 function cityWeather(e) {
-    weatherDataFetch("Tallinn");
+    weatherDataFetch("Antsla");
 }
 
 function drawWeather(data) {
